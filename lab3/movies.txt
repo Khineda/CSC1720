@@ -1,0 +1,88 @@
+The Shawshank Redemption
+1994
+R
+142
+The Godfather
+1972
+R
+175
+The Dark Knight
+2008
+PG-13
+152
+Pulp Fiction
+1994
+R
+154
+The Good, the Bad and the Ugly
+1966
+R
+178
+Forrest Gump
+1994
+PG-13
+142
+Fight Club
+1999
+R
+139
+The Matrix
+1999
+R
+136
+Back to the Future
+1985
+PG
+116
+The Lion King
+1994
+G
+88
+WALL-E
+2008
+G
+98
+Raiders of the Lost Ark
+1981
+PG
+115
+Avengers: Infinity War
+2018
+PG-13
+149
+The Dark Knight Rises
+2012
+PG-13
+164
+Toy Story
+1995
+G
+81
+Avengers: Endgame
+2019
+PG-13
+181
+Oppenheimer
+2023
+R
+180
+Die Hard
+1988
+R
+132
+Hamilton
+2020
+PG-13
+160
+Top Gun: Maverick
+2022
+PG-13
+130
+Pan's Labyrinth
+2006
+R
+118
+Monty Python and the Holy Grail
+1975
+PG
+91
